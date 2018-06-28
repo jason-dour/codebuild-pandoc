@@ -1,2 +1,3 @@
 # codebuild-pandoc
-Docker image for leveraging Pandoc in AWS CodeBuild.
+
+Minimalist Alpine Docker image for leveraging Pandoc in AWS CodeBuild.
