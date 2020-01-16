@@ -10,4 +10,4 @@ I designed this culling ideas from AWS and other public Dockerfiles to suit my n
 
 ## Build
 
-Make certain that your Docker environment has at least 4GB of memory allocated.  The build process appears to require 3.5GB of memory as it progresses.
+Make certain that your Docker environment has at least 4.5GB of memory allocated.
